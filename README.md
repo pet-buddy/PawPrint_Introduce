@@ -20,10 +20,14 @@
 </div>
 
 ## Introduce
-변 분석, 활동량 및 수면효율 추적, 사료 추천 기능을 통한 반려동물 AI 건강관리 앱
+변 분석, 활동량 및 수면효율 추적, 사료 추천 기능을 통한 반려동물 AI 건강관리 앱 
+
+<br />
 
 ## Web Address
 https://www.pawprint.ai.kr
+
+<br />
 
 ## App Download
 <div align="left">
